@@ -1,0 +1,16 @@
+.rickroll {
+	text-decoration:none;
+	background-color: #dc4a38;
+	color: #fff;
+	padding: 10px 25px;
+	border-radius: 10px;
+	transition: color 0.5s, background	0.5s;
+	position: absolute;
+	top: 50%; 
+	left: 46%;
+}
+.rickroll:hover {
+	background-color: #fff;
+	color: #dc4a38;
+	cursor: auto;
+}
